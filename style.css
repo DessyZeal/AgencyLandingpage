@@ -13,6 +13,24 @@ body {
     margin: 0;
     padding: 0;
 }
+header {
+    background-image: url(./images/desktop/image-header.jpg);
+    padding: 20px;
+    text-align: center;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+nav ul {
+    display: flex;
+    gap: 20px;
+}
 /* body {
     font-family: font-family: "Barlow", sans-serif font-family: "Fraunces", serif;;
   font-weight: 600;
