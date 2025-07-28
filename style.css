@@ -63,11 +63,16 @@ nav ul li a {
     width: 100%;
     height: auto;
 }
+.box1_text {
+    border: 1px solid #000;
+}
+.box1_text {
+    margin: auto;
+}
 .box1 h1 {
     font-family: "Fraunces", serif;
     font-size: 2.5rem;
     color: #000;
-    /* margin-top: 50px; */
     padding: 70px 70px 0 70px;
 }
 .box1 p {
@@ -75,7 +80,6 @@ nav ul li a {
     font-size: 1.2rem;
     color: #333;
     padding: 10px 70px 50px 70px;
-    /* margin-top: 20px; */
 }
 /* body {
     font-family: font-family: "Barlow", sans-serif font-family: "Fraunces", serif;;
