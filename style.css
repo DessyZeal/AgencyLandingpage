@@ -79,10 +79,12 @@ nav ul li a {
     color: #333;
     padding: 10px 70px 50px 70px;
 }
-/* body {
-    font-family: font-family: "Barlow", sans-serif font-family: "Fraunces", serif;;
-  font-weight: 600;
-  font-style: normal;;
-    margin: 0;
-    padding: 0;
-} */
+.btn-learn-more {
+    color: #000;
+    border-bottom: 1px solid ;
+    /* padding: 10px 20px; */
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 70px;
+}
+
